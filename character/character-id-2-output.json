@@ -1,0 +1,16 @@
+{
+  "errors": [
+    {
+      "message": "Syntax Error: Expected Name, found <EOF>",
+      "locations": [
+        {
+          "line": 11,
+          "column": 1
+        }
+      ],
+      "extensions": {
+        "code": "GRAPHQL_PARSE_FAILED"
+      }
+    }
+  ]
+}
